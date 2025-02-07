@@ -22,7 +22,7 @@ def end_fullscreen(event=None):
 
 
 # Store your OpenAI API key in an environment variable or secure file
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 # 보안등 API URL
 SECURITY_LIGHTS_API_URL = "https://api.odcloud.kr/api/15128084/v1/uddi:6af7ce5f-4a0a-41ce-a0eb-fa3653c61737"
